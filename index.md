@@ -12,9 +12,10 @@ Tensorflow quantization
 
 ### Biology
 
-Samsung Electronics ( 2016 ~ )  
-Bachelor's degree in Hanyang university, Korea  
-Intern Samsung Electronics ( 2013 summer )
+Samsung Electronics (2016 ~)  
+Bachelor's degree in Hanyang university, Korea (2009 ~ 2015)  
+Intern Samsung Electronics (2013 summer)  
+Korea military service (2010~2012)  
 
 
 ### Contact
