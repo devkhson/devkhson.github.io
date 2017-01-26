@@ -1,21 +1,18 @@
 ## Welcome
 
-Hi, my name is kwanghoon son.
+Hi, my name is kwanghoon son.  
+I'm work in Samsung electronics, and hardly reasearch about deep learning.  
 
-I'm work in Samsung electronics, and hardly reasearch about deep learning.
 
 ### Reasearch
 
-Caffe Object detection
+Caffe Object detection  Tensorflow quantization
 
-Tensorflow quantization
 
 ### Biology
 
-Samsung Electronics ( 2016 ~ )
-
-Bachelor's degree in Hanyang university, Korea
-
+Samsung Electronics ( 2016 ~ )  
+Bachelor's degree in Hanyang university, Korea  
 Intern Samsung Electronics ( 2013 summer )
 
 
