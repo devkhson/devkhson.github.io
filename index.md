@@ -6,7 +6,8 @@ I'm work in Samsung electronics, and hardly reasearch about deep learning.
 
 ### Reasearch
 
-Caffe Object detection  Tensorflow quantization
+Caffe Object detection  
+Tensorflow quantization  
 
 
 ### Biology
